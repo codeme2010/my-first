@@ -9,4 +9,8 @@ http://hukai.me/android-training-course-in-chinese/index.html
 - xml中申明activity的不同：  
     http://stackoverflow.com/questions/4153517/how-exactly-does-the-androidonclick-xml-attribute-differ-from-setonclicklistene
 - Loader详解：  
-    http://www.androiddesignpatterns.com/2012/09/tutorial-loader-loadermanager.html
+    http://www.androiddesignpatterns.com/2012/09/tutorial-loader-loadermanager.html  
+    http://www.cnblogs.com/windwithlife/archive/2009/07/26/1531436.html  
+    Android SQLite database and content provider - Tutorial：http://www.vogella.com/tutorials/AndroidSQLite/article.html  
+    https://developer.android.com/guide/topics/providers/content-provider-basics.html  
+    https://developer.android.com/guide/topics/providers/content-provider-creating.html  
