@@ -12,5 +12,6 @@ http://hukai.me/android-training-course-in-chinese/index.html
     http://www.androiddesignpatterns.com/2012/09/tutorial-loader-loadermanager.html  
     http://www.cnblogs.com/windwithlife/archive/2009/07/26/1531436.html  
     Android SQLite database and content provider - Tutorial：http://www.vogella.com/tutorials/AndroidSQLite/article.html  
+    ContentProvider实例详解：http://blog.csdn.net/luoshengyang/article/details/6950440  
     https://developer.android.com/guide/topics/providers/content-provider-basics.html  
     https://developer.android.com/guide/topics/providers/content-provider-creating.html  
