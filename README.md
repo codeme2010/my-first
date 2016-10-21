@@ -1,7 +1,11 @@
 # my-first
 ##我的Android学习之路
 ###1、入门学习网站
-http://hukai.me/android-training-course-in-chinese/index.html
+http://hukai.me/android-training-course-in-chinese/index.html  
+- 郭林的博客：http://blog.csdn.net/guolin_blog?viewmode=contents  
+- Android使用Font Awesome显示小图标：http://blog.csdn.net/u013155862/article/details/51833239  
+- AS快捷键：http://blog.csdn.net/qq_15807167/article/details/51578339  
+
 
 知识点：
 - android中xml tools属性详解：  
